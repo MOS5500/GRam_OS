@@ -25,7 +25,7 @@ This repository is intended for anyone who wants to:
 
 ## Author's note
 
-This branch of the project is published as an open base and will not be further developed by the author. Anyone is free to fork it and take it in whatever direction they prefer.
+This branch is released under the Apache 2.0 permissive license and will not be further developed by the author. Anyone is free to fork it and use it in any project, including commercial and closed source ones.
 
 ## License
 
