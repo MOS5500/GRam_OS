@@ -4,6 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Assembly-red.svg)
 ![FPGA](https://img.shields.io/badge/FPGA-Efinix%20Trion%20T20F256-purple.svg)
 ![Status](https://img.shields.io/badge/Status-Stable%20Base-lightgrey.svg)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18881738-blue)](https://doi.org/10.5281/zenodo.18881738)
 
 # GRam_OS
 
