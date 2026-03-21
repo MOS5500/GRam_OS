@@ -6,6 +6,19 @@
 ![Status](https://img.shields.io/badge/Status-Stable%20Base-lightgrey.svg)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18881738-blue)](https://doi.org/10.5281/zenodo.18881738)
 
+
+## ⚠️ Important Notice — No Fundraising Campaigns
+
+This project has **no active crowdfunding, donation, or fundraising campaigns** of any kind.
+
+If you have encountered any solicitation for donations related to GargantuRAM or the 5500FP processor — including on VK, Telegram, or any other platform — **it is not authorized by the author and has no affiliation with this project.**
+
+The sole author and maintainer of the Ternary Computer System initiative is **Claudio La Rosa**, based in Italy.  
+Official channels: [ternary-computing.com](https://www.ternary-computing.com) | [Zenodo paper](https://doi.org/10.5281/zenodo.18881738)
+
+---
+
+
 # GRam_OS
 
 GRam_OS is a minimal operating system for the **5500FP**, a 24-trit balanced ternary RISC processor implemented on FPGA, and its open hardware development board **GargantuRAM**. It is written entirely in 5500FP Assembly and runs on real hardware.
